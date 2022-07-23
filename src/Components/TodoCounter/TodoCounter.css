@@ -1,0 +1,21 @@
+.TodoCounter {
+  padding: 30px;
+}
+
+.TodoCounter-user {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 10px;
+  padding: 0px;
+  color: white;
+  font-family: 'montserrat';
+}
+
+.TodoCounter-tasks {
+  font-size: 20px;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  color: yellow;
+  font-family: 'montserrat';
+}

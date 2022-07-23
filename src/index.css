@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #24303c;
+  color: #1E1E1F;
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
+
+@media (max-width: 640px) {
+  body {
+    margin: 0;
+    padding: 0;
+    background: #24303c;
+    color: #1E1E1F;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  }
+  
+  #root {
+    margin: 0 24px;
+    position: relative;
+    min-height: 100vh;
+  }
+}
